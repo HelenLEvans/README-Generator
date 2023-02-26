@@ -1,4 +1,4 @@
-# Duke
+# ReadMe 
 
   ## Table Of Contents
   - [Project description](#Description)
@@ -6,21 +6,21 @@
   - [Contributing](#Contributing)
   - [Installation](#Installation)
   - [Questions](#Questions)
- null
-  null
-  
+  - [License](#License)
+  ## License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  Fifi
+  this is a readme generator
 
   ## Usage
-  ljkregaeijger
+  generates readme file
 
   ## Installation
-  1234
+  npm install
 
   ## Contributing
-  1234
+  12334
 
   ## Questions
   h.hoesley@gmail.com
